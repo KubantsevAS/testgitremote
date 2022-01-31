@@ -1,6 +1,6 @@
 var a;
-prompt(a);
+prompt('enter a',a);
 if (a>0) {
-	++a;};
+	++a;}
 else { --a};
 alert(a);
